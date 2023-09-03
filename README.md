@@ -20,4 +20,4 @@
 
 - Continuous Updates: The website is regularly updated with new game additions and improvements, reflecting a commitment to maintaining a dynamic and evolving platform for the gaming community.
 
-## Live Link :-
+## Live Link :- https://beautiful-youtiao-2e84a5.netlify.app/
