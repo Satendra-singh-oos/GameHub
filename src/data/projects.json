@@ -1,0 +1,64 @@
+[
+    {
+        "image":"/images/mole.png",
+        "title":"Whack-A-Mole",
+        "description":"Get ready for an exciting game of skill and speed with Whack-a-Mole! This classic arcade game has been brought to life using the power of JavaScript, HTML, and CSS, and it's ready to challenge your reflexes and precision.",
+        "tech":"JavaScript Html Css",
+        "site":"https://phenomenal-douhua-790eaa.netlify.app/",
+        "github":"https://github.com/Satendra-singh-oos/Whack-A-Mole"
+    },
+    
+    {
+        "image":"/images/pair.png",
+        "title":"Pair-Quest",
+        "description":"Challenge your memory with our React-based game! Match cards, beat the clock, and enjoy stunning visuals. Get ready for a brain-teasing adventure!",
+        "tech":"React.JS React-Hooks Css",
+        "site":"https://github.com/Satendra-singh-oos/PairQuest",
+        "github":"https://cozy-moonbeam-84f586.netlify.app/"
+    },
+    {
+        "image":"/images/virtual.png",
+        "title":"Virtual-Volley",
+        "description":"Enjoy classic Ping Pong fun! Built with JavaScript, CSS, and HTML, it offers thrilling matches against the computer or a friend. Ready to test your skills?",
+        "tech":"JavaScript Html Css",
+        "site":"https://flourishing-kataifi-546f85.netlify.app/",
+        "github":"https://github.com/Satendra-singh-oos/Virtual-Volley"
+    },
+    {
+        "image":"/images/wordle.png",
+        "title":"Wordle-Guess",
+        "description":"Welcome to Wordle, a captivating word-guessing game that challenges your vocabulary and deduction skills. In this classic word puzzle brought to life with HTML, CSS, and JavaScript, your objective is to decipher a concealed five-letter word.",
+        "tech":"JavaScript Html Css",
+        "site":"https://cheerful-flan-62984b.netlify.app/",
+        "github":"https://github.com/Satendra-singh-oos/Wordle"
+    },
+    
+    {
+        "image":"/images/create.png",
+        "title":"Create-Circle",
+        "description":"Create colorful circles with a click! Our game, built using vanilla JavaScript and HTML, lets you unleash your artistic side. Explore a world of vibrant patterns effortlessly.",
+        "tech":"JavaScript Html Css",
+        "site":"https://amazing-lamington-e15907.netlify.app/",
+        "github":"https://github.com/Satendra-singh-oos/ClickTO-Create-Circle"
+    },
+   
+    {
+        "image":"/images/dino.png",
+        "title":"Dino-Jumping",
+        "description":"Enjoy endless fun with our vanilla JavaScript jumping game. Test your reflexes as you navigate obstacles and platforms, collecting power-ups along the way. How high can you score? Play now!",
+        "tech":"JavaScript Html Css",
+        
+        "site":"https://sparkling-griffin-bcdb23.netlify.app/",
+        "github":"https://github.com/Satendra-singh-oos/Chrome-Dino-Jump"
+    },
+
+    {
+        "image":"/images/tic.jpg",
+        "title":"Real-Time-Tick-Toe",
+        "description":"Play real-time Tick-Tac-Toe with friends and foes! Built with React, Socket.io, and Express, this game elevates the classic experience. Challenge opponents, strategize, and claim victory. Get ready to redefine Xs and Os!",
+        "tech":"React.Js Express.Js Socket.IO",  
+        "site":"https://youtu.be/mwpPwPigB-s?si=2aQVokFRMqvyymro",
+        "github":"https://github.com/Satendra-singh-oos/RealTime_Tic-Tac-Toe"
+    }
+    
+]
