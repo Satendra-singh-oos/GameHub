@@ -6,7 +6,7 @@
 
 ---
 
-#### Key Features and Achievements:
+#### Key Features :
 
 - Game Diversity: The website features an extensive array of games spanning different genres and technologies, ensuring that users can explore classic and modern games developed with technologies such as JavaScript, HTML, CSS, React, Express, and Socket.IO.
 
